@@ -108,6 +108,8 @@ input.style.fontFamily="'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', '
 
 words.style.fontSize="20px";
 words.style.display="flex";
+words.style.marginTop="20px";
+words.style.marginBottom="20px";
 words.style.border="solid 2px white";
 words.style.justifyContent="center";
 words.style.alignContent="center";
