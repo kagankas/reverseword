@@ -23,7 +23,7 @@ stack.style.flexDirection="column";
 body.append(stack);
 
 var topic =document.createElement('h2');
-topic.innerText="stacks";
+topic.innerText="Reverse word";
 topic.style.backgroundColor="white";
 topic.style.width= "200px";
 topic.style.fontSize="50px";
