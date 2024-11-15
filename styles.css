@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex:1;
+    justify-content: center;
+    background-color: blueviolet;
+    align-content: center;
+     background-color: rgb(228, 241, 250);
+    background-image: url("/images/books.jfif");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center center;
+    background-attachment: fixed;
+     
+    
+} 
